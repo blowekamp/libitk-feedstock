@@ -8,7 +8,7 @@ github_actions:
 azure:
   free_disk_space: true
 provider:
-  osx: github_actions
+  osx: azure
   osx_arm64: github_actions
   linux_ppc64le: default
   linux_aarch64: default
